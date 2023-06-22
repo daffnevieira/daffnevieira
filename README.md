@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daffnevieira
-- 👀 I’m interested in ... Learning about anything
+- 👀 I’m interested in ... Learning software development and stuff
 - 🌱 I’m currently learning ... Web Development and Guitar
-- 💞️ I’m looking to collaborate on ... Softwares
+- 💞️ I’m looking to collaborate on ... Software
 
 <!---
 daffnevieira/daffnevieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
