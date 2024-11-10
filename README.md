@@ -1,8 +1,10 @@
 👋 Olá, eu sou @daffnevieira
-👀 Estou interessada e aprendendo:
+
+Estou interessada e aprendendo:
 - Desenvolvimento back-end
 - Cybersecurity
-💞️ Estou procurando colaborar em:
+  
+Estou procurando colaborar em:
 Projetos de software, especialmente em desenvolvimento back-end e segurança digital
 
 ## 🚀 Estou aprendendo:
