@@ -24,8 +24,3 @@ Projetos de software, especialmente em desenvolvimento back-end e segurança dig
   </a>
 </div>
 
-## 📝 Sobre este repositório
-daffnevieira/daffnevieira é um repositório especial porque o arquivo `README.md` aparece no seu perfil do GitHub.
-Clique no link de **Preview** para ver as mudanças.
-
-Clique no link de **Preview** para ver as mudanças.
