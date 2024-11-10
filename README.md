@@ -17,12 +17,13 @@ Projetos de software, especialmente em desenvolvimento back-end e segurança dig
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 </div>
-##
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/daffnevieira"> 
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffnevieira&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=daffnevieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
+
 ## 📝 Sobre este repositório
 daffnevieira/daffnevieira é um repositório especial porque o arquivo `README.md` aparece no seu perfil do GitHub.
 Clique no link de **Preview** para ver as mudanças.
