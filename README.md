@@ -5,7 +5,7 @@ Estou interessada e aprendendo:
 - Cybersecurity
   
 Estou procurando colaborar em:
-Projetos de software, especialmente em desenvolvimento back-end e segurança digital
+Projetos de software, especialmente em Desenvolvimento Back-end e segurança digital
 
 ## 🚀 Estou aprendendo:
 <div>
