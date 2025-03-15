@@ -1,11 +1,13 @@
 👋 Olá, eu sou @daffnevieira
 
 Estou interessada e aprendendo:
+
+- Desenvolvimento fullstack
 - Desenvolvimento back-end
 - Cybersecurity
   
 Estou procurando colaborar em:
-Projetos de software, especialmente em Desenvolvimento Back-end e segurança digital
+Projetos de software, especialmente em Desenvolvimento Back-end 
 
 ## 🚀 Estou aprendendo:
 <div>
